@@ -1,3 +1,8 @@
+/**
+ * Name: Lorenzo Garcia-Hernandez
+ * CWID: 878877109
+ * Email: lagarcia85@csu.fullerton.edu
+ */
 
 #include "BookStore.hpp"
 
